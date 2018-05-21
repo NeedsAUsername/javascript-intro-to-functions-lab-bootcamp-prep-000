@@ -5,7 +5,7 @@ function shout(string) {
 
 var word = "HI"
 
-if word === uppercase {
+if `${word}` === uppercase {
   console.log('Yes')
 }
 else {
